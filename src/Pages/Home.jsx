@@ -2,7 +2,7 @@ import React from 'react'
 import Main from '../components/Main'
 import Row from '../components/Row'
 import requests from '../Requests'
-import  Footer from '../Components/Footer'
+import  Footer from '../components/Footer'
 
 const Home = () => {
   return (
