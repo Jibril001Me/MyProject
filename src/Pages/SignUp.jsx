@@ -5,7 +5,7 @@ const SignUp = () => {
   return (
     <>
     <div className='w-full h-screen'>
-   <img  className="absolute inset-0 bg-cover bg-center opacity-30"
+   {/* <img  className="absolute inset-0 bg-cover bg-center opacity-30" */}
         style={{
           backgroundImage:
             "url('https://www.freepik.com/free-photos-vectors/netflix-background')",
